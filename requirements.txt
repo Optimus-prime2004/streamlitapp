@@ -1,2 +1,6 @@
-JWTError
-jwt
+streamlit
+smtplib
+email
+python-jose
+passlib
+pandas
