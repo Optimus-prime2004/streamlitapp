@@ -1,5 +1,5 @@
 streamlit
-smtplib
+secure-smtplib
 email
 python-jose
 passlib
